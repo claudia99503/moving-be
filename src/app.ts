@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import errorHandler from './middlewares/errHandler';
-import { PORT } from './config/env';
+import { PORT, CORS_ORIGINS } from './config/env';
 import estimateReqRouter from './routes/estimateRequestRoute';
 import userRouter from './routes/userRouter';
 import customerRouter from './routes/customerRouter';
@@ -25,13 +25,7 @@ app.use(cookieParser());
 app.use(morgan('dev'));
 app.use(
   cors({
-    origin: [
-      'http://localhost:3000',
-      'http://localhost:3001',
-      'http://localhost:3002',
-      'https://gomoveit.vercel.app',
-      'https://gomoveit.vercel.app/',
-    ],
+    origin: CORS_ORIGINS,
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     preflightContinue: false,

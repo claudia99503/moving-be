@@ -21,6 +21,10 @@ const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID as string;
 const GOOGLE_CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET as string;
 const GOOGLE_REDIRECT_URI = process.env.GOOGLE_REDIRECT_URI as string;
 
+const CORS_ORIGINS = process.env.CORS_ORIGINS
+  ? process.env.CORS_ORIGINS.split(',').map(origin => origin.trim())
+  : [];
+
 export {
   PORT,
   ACCESS_TOKEN_SECRET,
@@ -41,4 +45,5 @@ export {
   GOOGLE_CLIENT_ID,
   GOOGLE_CLIENT_SECRET,
   GOOGLE_REDIRECT_URI,
+  CORS_ORIGINS,
 };
