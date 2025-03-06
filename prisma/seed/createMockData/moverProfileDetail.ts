@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
-import { getRegionArray } from "../generate/generateRegion";
-import { getServiceTypesArray } from "../generate/generateServiceType";
+import { getRegionArray } from "../generate/getRegion";
+import { getServiceTypesArray } from "../generate/getServiceType";
 
 const ReviewTotalCount = 100;
 
