@@ -9,7 +9,6 @@ router
   .route('/profile')
   .all(authenticateToken)
   .patch(
-    uploadImage('profileImage'),
     customerController.patchCustomerProfileController
   );
 router
