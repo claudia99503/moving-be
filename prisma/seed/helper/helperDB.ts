@@ -28,65 +28,84 @@ async function gracefulShutdown(reason: string) {
 async function resetTable(tableName: string, startId: number = 1) {
   try {
     console.log(`🗑️ ${tableName} 테이블 데이터 삭제 중...`);
-    const deleteCount = await prisma.$executeRawUnsafe(`DELETE FROM "${tableName}" WHERE id >= ${startId}`);
-    console.log(`✅ ${tableName} 테이블에서 ${deleteCount}개의 데이터가 삭제되었습니다.`);
+    const deleteCount = await prisma.$executeRawUnsafe(
+      `DELETE FROM "${tableName}" WHERE id >= ${startId}`
+    );
+    console.log(
+      `✅ ${tableName} 테이블에서 ${deleteCount}개의 데이터가 삭제되었습니다.`
+    );
 
     const sequenceName = `${tableName}_id_seq`;
     console.log(`🔄 ${sequenceName} 시퀀스를 ${startId}로 초기화 중...`);
-    await prisma.$executeRawUnsafe(`ALTER SEQUENCE "${sequenceName}" RESTART WITH ${startId}`);
+    await prisma.$executeRawUnsafe(
+      `ALTER SEQUENCE "${sequenceName}" RESTART WITH ${startId}`
+    );
     console.log(`✔️ ${sequenceName} 시퀀스가 ${startId}로 초기화되었습니다.`);
   } catch (error) {
-    console.error(`❌ ${tableName} 테이블 데이터 삭제 또는 시퀀스 초기화 중 오류 발생:`, error);
+    console.error(
+      `❌ ${tableName} 테이블 데이터 삭제 또는 시퀀스 초기화 중 오류 발생:`,
+      error
+    );
   }
 }
 
 async function clearAllTables() {
   try {
     // Prisma 클라이언트 트랜잭션 시작
-    await prisma.$transaction(async (tx) => {
-      // 삭제 순서 정의
-      const deleteOrder = [
-        "notification",
-        "review",
-        "assigned_estimate_request",
-        "favorite",
-        "estimate",
-        "estimate_requests",
-        "moving_info",
-        "mover",
-        "customer",
-        "user",
-      ];
+    await prisma.$transaction(
+      async (tx) => {
+        // 삭제 순서 정의
+        const deleteOrder = [
+          'notification',
+          'review',
+          'assigned_estimate_request',
+          'favorite',
+          'estimate',
+          'estimate_requests',
+          'moving_info',
+          'mover',
+          'customer',
+          'user',
+        ];
 
-      // 각 테이블 데이터 삭제 및 시퀀스 초기화
-      for (const table of deleteOrder) {
-        await resetTable(table); // resetTable 활용
-      }
+        // 각 테이블 데이터 삭제 및 시퀀스 초기화
+        for (const table of deleteOrder) {
+          await resetTable(table); // resetTable 활용
+        }
 
-      console.log('✅ 초기화 순서에 따라 지정된 모든 테이블 삭제 및 시퀀스 초기화 완료.');
+        console.log(
+          '✅ 초기화 순서에 따라 지정된 모든 테이블 삭제 및 시퀀스 초기화 완료.'
+        );
 
-      // 남아 있는 테이블 확인 (삭제 순서와 _prisma_migrations 제외)
-      const remainingTables = await tx.$queryRaw<{ table_name: string }[]>(
-        Prisma.sql`
+        // 남아 있는 테이블 확인 (삭제 순서와 _prisma_migrations 제외)
+        const remainingTables = await tx.$queryRaw<{ table_name: string }[]>(
+          Prisma.sql`
           SELECT table_name 
           FROM information_schema.tables 
           WHERE table_schema = 'public' 
-            AND table_name NOT IN (${Prisma.join([...deleteOrder, "_prisma_migrations"])});
+            AND table_name NOT IN (${Prisma.join([
+              ...deleteOrder,
+              '_prisma_migrations',
+            ])});
         `
-      );
+        );
 
-      if (remainingTables.length > 0) {
-        console.log('⚠️ 삭제되지 않은 테이블이 발견되었습니다:');
-        remainingTables.forEach((table) => console.log(`- ${table.table_name}`));
+        if (remainingTables.length > 0) {
+          console.log('⚠️ 삭제되지 않은 테이블이 발견되었습니다:');
+          remainingTables.forEach((table) =>
+            console.log(`- ${table.table_name}`)
+          );
 
-        // 남은 테이블 삭제 및 시퀀스 초기화
-        for (const table of remainingTables) {
-          await resetTable(table.table_name); // resetTable 활용
+          // 남은 테이블 삭제 및 시퀀스 초기화
+          for (const table of remainingTables) {
+            await resetTable(table.table_name); // resetTable 활용
+          }
+        } else {
+          console.log('🎉 모든 테이블이 성공적으로 초기화되었습니다.');
         }
-      } else {
-        console.log('🎉 모든 테이블이 성공적으로 초기화되었습니다.');
-      }
-    }, { maxWait: 15000, timeout: 1000 * 60 * 10 }); // 트랜잭션 시간 10분
+      },
+      { maxWait: 15000, timeout: 1000 * 60 * 10 }
+    ); // 트랜잭션 시간 10분
   } catch (error) {
     console.error('❌ 모든 테이블 초기화 중 오류 발생:', error);
   }
@@ -101,7 +120,8 @@ async function main() {
     output: process.stdout,
   });
 
-  const askQuestion = (query: string): Promise<string> => new Promise((resolve) => readline.question(query, resolve));
+  const askQuestion = (query: string): Promise<string> =>
+    new Promise((resolve) => readline.question(query, resolve));
 
   // Graceful shutdown handlers for termination signals
   process.on('SIGINT', () => gracefulShutdown('SIGINT(Ctrl+C) 신호'));
@@ -113,7 +133,7 @@ async function main() {
       console.log('1. 모든 테이블 데이터 초기화 및 시퀀스 초기화');
       console.log('2. 특정 테이블 데이터 삭제 및 시퀀스 초기화');
       console.log('3. 데이터 전체 순차 시딩 작업');
-      console.log('4. Estimate에서 CustomerId 업데이트 (일단 사용 ❌❌❌)')
+      console.log('4. Estimate에서 CustomerId 업데이트 (일단 사용 ❌❌❌)');
       console.log('5. 작업 종료');
 
       const choice = await askQuestion('선택: ');
@@ -139,23 +159,30 @@ async function main() {
           console.log(`${index + 1}. ${table}`);
         });
 
-        const tableChoice = parseInt(await askQuestion('테이블 번호를 선택하세요: '), 10);
-        if (isNaN(tableChoice) || tableChoice < 1 || tableChoice > filteredTables.length) {
+        const tableChoice = parseInt(
+          await askQuestion('테이블 번호를 선택하세요: '),
+          10
+        );
+        if (
+          isNaN(tableChoice) ||
+          tableChoice < 1 ||
+          tableChoice > filteredTables.length
+        ) {
           console.log('⚠️ 잘못된 선택입니다.');
           continue;
         }
 
         const tableName = filteredTables[tableChoice - 1];
-        const startId = parseInt(await askQuestion('시작 ID를 입력하세요 (기본값 1): '), 10) || 1;
+        const startId =
+          parseInt(
+            await askQuestion('시작 ID를 입력하세요 (기본값 1): '),
+            10
+          ) || 1;
 
         await resetTable(tableName, startId);
       } else if (choice === '3') {
-        const isTest = await askQuestion('Test Mode? (y/n): ') === 'y';
-        console.log('isTest?? : ', isTest);
-
         console.log('🚀 데이터 전체 순차 시딩 중...');
-        await seedingMain(isTest);
-        
+        await seedingMain(false); // 자동 실행이므로 Test Mode는 false로 설정
       } else if (choice === '4') {
         console.log('🚀 업데이트를 시도합니다.');
         await findLogAndFixMismatchedCustomerIds();
@@ -181,5 +208,13 @@ process.on('uncaughtException', (error) => {
 });
 
 if (require.main === module) {
-  main();
+  console.log('서버 시작 시 데이터 시딩을 실행합니다.');
+  seedingMain(false).then(() => {
+    console.log('데이터 시딩이 완료되었습니다.');
+    main();
+  }).catch(async (error) => {
+    console.error('데이터 시딩 중 오류 발생:', error);
+    await gracefulShutdown('시딩 실패로 인한 종료');
+  });
 }
+
