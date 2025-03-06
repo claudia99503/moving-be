@@ -25,9 +25,13 @@ app.use(cookieParser());
 app.use(morgan('dev'));
 app.use(
   cors({
-    origin: (origin, callback) => {
-      callback(null, true); // 모든 도메인 허용 (쿠키 포함 가능)
-    },
+    origin: [
+      'http://localhost:3000',
+      'http://localhost:3001',
+      'http://localhost:3002',
+      'https://gomoveit.vercel.app',
+      'https://gomoveit.vercel.app/',
+    ],
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     preflightContinue: false,

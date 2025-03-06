@@ -36,6 +36,9 @@
   "scripts": {
     "start": "node dist/app.js",
     "dev": "nodemon --watch src --exec ts-node --files ./src/app.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "migrate": "npx prisma migrate deploy",
+    "seed": "npx ts-node prisma/seed/createDB/insert/seedingMain.ts"
   }
+  
 }
