@@ -78,11 +78,13 @@ async function createEstimateReq(userId: number, data: CreateEstimateReq) {
   if (!user.Customer) {
     const err: CustomError = new Error('소비자 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_CUSTOMER_ONLY';
     throw err;
   } else if (user.Customer.region === 'NULL') {
     // 소비자 프로필 유무 확인
     const err: CustomError = new Error('프로필을 등록 해주세요.');
     err.status = 400;
+    err.code = 'MISSING_PROFILE_INFO';
     throw err;
   }
 
@@ -102,6 +104,7 @@ async function createEstimateReq(userId: number, data: CreateEstimateReq) {
   if (checkEstimateReq) {
     const err: CustomError = new Error('이미 요청한 견적이 있습니다.');
     err.status = 400;
+    err.code = 'ALREADY_REQUESTED_ESTIMATE';
     throw err;
   }
 
@@ -113,6 +116,7 @@ async function createEstimateReq(userId: number, data: CreateEstimateReq) {
   if (movingDateTime < todayDateTime) {
     const err: CustomError = new Error('이미 지난 날짜입니다.');
     err.status = 400;
+    err.code = 'PAST_MOVING_DATE';
     throw err;
   }
 
@@ -156,16 +160,19 @@ async function deleteEstimateReq(userId: number, estimateRequestId: number) {
   if (!estimateReq) {
     const err: CustomError = new Error('존재하지 않는 견적 요청입니다.');
     err.status = 400;
+    err.code = 'ESTIMATE_REQUEST_NOT_FOUND';
     throw err;
   } else if (estimateReq.isCancelled) {
     const err: CustomError = new Error('이미 취소된 요청입니다.');
     err.status = 400;
+    err.code = 'ALREADY_CANCELLED_REQUEST';
     throw err;
   } else if (estimateReq.isConfirmed) {
     const err: CustomError = new Error(
       '이미 확정한 요청은 취소할 수 없습니다.'
     );
     err.status = 400;
+    err.code = 'ALREADY_CONFIRMED_REQUEST';
     throw err;
   }
 
@@ -173,10 +180,12 @@ async function deleteEstimateReq(userId: number, estimateRequestId: number) {
   if (!user || !user.Customer) {
     const err: CustomError = new Error('소비자 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_CUSTOMER_ONLY';
     throw err;
   } else if (user.Customer.id !== estimateReq.Customer.id) {
     const err: CustomError = new Error('권한이 없습니다.');
     err.status = 401;
+    err.code = 'UNAUTHORIZED_ACCESS';
     throw err;
   }
 
@@ -251,6 +260,7 @@ async function findEstimateReq(userId: number) {
   if (!user?.Customer) {
     const err: CustomError = new Error('소비자 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_CUSTOMER_ONLY';
     throw err;
   }
 
@@ -323,6 +333,7 @@ async function findEstimateReqListByCustomer(
   if (!customer) {
     const err: CustomError = new Error('소비자 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_CUSTOMER_ONLY';
     throw err;
   }
 
@@ -492,6 +503,7 @@ async function findEstimateReqListByMover(
   if (!mover) {
     const err: CustomError = new Error('기사 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_MOVER_ONLY';
     throw err;
   }
 

@@ -41,6 +41,7 @@ function errorHandler(
 
   res.status(status).json({
     status,
+    code: error.code ?? 'UNKNOWN_ERROR',
     path: req.path,
     method: req.method,
     message: error.message ?? 'Internal Server Error',

@@ -59,16 +59,19 @@ async function createAssigned(userId: number, moverId: number) {
     // 소비자 여부 확인
     const err: CustomError = new Error('소비자 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_CUSTOMER_ONLY';
     throw err;
   } else if (!mover) {
     // 기사 여부 확인
     const err: CustomError = new Error('존재하지 않는 기사님입니다.');
     err.status = 400;
+    err.code = 'INVALID_MOVER_ID';
     throw err;
   } else if (!estimateReq) {
     // 견적 요청 여부 확인
     const err: CustomError = new Error('일반 견적 요청을 먼저 진행해 주세요.');
-    err.status = 400;
+    err.status = 412;
+    err.code = 'MISSING_GENERAL_ESTIMATE';
     throw err;
   }
 
@@ -95,19 +98,22 @@ async function createAssigned(userId: number, moverId: number) {
   if (estimate) {
     // 해당 기사가 견적을 보냈는지 확인
     const err: CustomError = new Error('해당 기사가 보낸 견적이 존재 합니다.');
-    err.status = 400;
+    err.status = 409;
+    err.code = 'ALREADY_ESTIMATE_EXISTS';
     throw err;
   } else if (assignedEstimateReq) {
     // 해당 기사의 지정 여부 확인
     const err: CustomError = new Error(
       '이미 기사님께 지정 견적 요청을 하셨습니다.'
     );
-    err.status = 400;
+    err.status = 409;
+    err.code = 'ALREADY_ASSIGNED_REQUEST';
     throw err;
   } else if (!mover.serviceRegion.includes(REGION_NAME_TO_CODE[departure])) {
     // 기사의 서비스 지역인지 확인
     const err: CustomError = new Error('해당 기사님의 서비스 지역이 아닙니다.');
-    err.status = 400;
+    err.status = 422;
+    err.code = 'OUT_OF_SERVICE_REGION';
     throw err;
   }
 
@@ -170,16 +176,19 @@ async function rejectedAssigned(userId: number, estimateReqId: number) {
     // 기사인지 확인
     const err: CustomError = new Error('기사 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_MOVER_ONLY';
     throw err;
   } else if (!estimateReq) {
     // 견적 요청의 존재 여부
     const err: CustomError = new Error('존재하지 않는 견적 요청입니다.');
-    err.status = 400;
+    err.status = 404;
+    err.code = 'ESTIMATE_REQUEST_NOT_FOUND	';
     throw err;
   } else if (!assign) {
     // 지정 견적 요청의 존재 여부
     const err: CustomError = new Error('존재하지 않는 지정 견적 요청입니다.');
-    err.status = 400;
+    err.status = 404;
+    err.code = 'ASSIGNED_REQUEST_NOT_FOUND';
     throw err;
   }
 
@@ -190,17 +199,20 @@ async function rejectedAssigned(userId: number, estimateReqId: number) {
   if (estimateReq.isCancelled) {
     // 요청이 취소 되었을 때
     const err: CustomError = new Error('취소된 요청입니다.');
-    err.status = 400;
+    err.status = 410;
+    err.code = 'CANCELLED_REQUEST';
     throw err;
   } else if (estimateReq.isConfirmed) {
     // 요청이 취소 되어 있을때
     const err: CustomError = new Error('견적을 확정한 요청입니다.');
-    err.status = 400;
+    err.status = 409;
+    err.code = 'ALREADY_CONFIRMED_ESTIMATE';
     throw err;
   } else if (today > movingDate) {
     // 이사 날짜가 지났을때
     const err: CustomError = new Error('이사일이 지난 요청입니다.');
-    err.status = 400;
+    err.status = 410;
+    err.code = 'PAST_MOVING_DATE';
     throw err;
   }
 
@@ -290,6 +302,7 @@ async function findRejecteListdAssigned(
   if (!mover) {
     const err: CustomError = new Error('기사 전용 API 입니다.');
     err.status = 403;
+    err.code = 'FORBIDDEN_MOVER_ONLY';
     throw err;
   }
 

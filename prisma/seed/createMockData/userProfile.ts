@@ -3,7 +3,7 @@ import path from "path";
 import {
   getServiceTypes,
   getServiceTypesArray,
-} from "../generate/generateServiceType";
+} from "../generate/getServiceType";
 import { getRegion, getRegionArray } from "../generate/generateRegion";
 import { generateName } from "../generate/generateName";
 import { getRandomMoverInfo, Mover } from "../generate/generateMoverInfo";

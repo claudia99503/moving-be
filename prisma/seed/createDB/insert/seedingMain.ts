@@ -17,17 +17,52 @@ import { createEstimate } from '../createEstimate';
 import { createReview } from '../createReview';
 import { createFavorite } from '../createFavorite';
 
+import * as fs from 'fs/promises';
+import path from 'path';
+
 export const CONCURRENCY_LIMIT = 10; // 비동기 큐 최대 동시 실행 작업 수
 
+// result 폴더 내 user 및 mover 데이터 가져오기
+async function loadResultData(dirPath: string) {
+  try {
+    const subDirs = await fs.readdir(dirPath);
+    let allData: any[] = [];
+
+    for (const subDir of subDirs) {
+      const subDirPath = path.join(dirPath, subDir);
+      const stat = await fs.stat(subDirPath);
+
+      if (stat.isDirectory()) {
+        const files = await fs.readdir(subDirPath);
+        for (const file of files) {
+          const filePath = path.join(subDirPath, file);
+          if (file.endsWith('.json')) {
+            const fileData = await fs.readFile(filePath, 'utf-8');
+            allData.push(...JSON.parse(fileData));
+          }
+        }
+      }
+    }
+
+    return allData;
+  } catch (error) {
+    console.error(`❌ ${dirPath} 데이터 로딩 중 오류 발생:`, error);
+    return [];
+  }
+}
 
 export async function seedingMain(isTest: boolean = false) {
   console.log('🚀 모든 시딩 작업을 순차적으로 실행합니다.\n');
 
-  const seedFunctions = [
-    { name: 'Create Users', func: createUser, params: [isTest] },
-    { name: 'User Seed', func: seedDatabase },
+  // result 폴더에서 사용자 및 이사 업체 데이터 로딩
+  const userData = await loadResultData('prisma/seed/createMockData/result/user');
+  const moverData = await loadResultData('prisma/seed/createMockData/result/mover');
 
-    { name: 'Create Moving Info', func: createMovingInfo, params: [isTest]  },
+  const seedFunctions: { name: string; func: Function; params?: [boolean] | [boolean, any[]] }[] = [
+    { name: 'Create Users', func: createUser, params: [isTest] },
+    { name: 'User Seed', func: seedDatabase, params: [isTest, userData] },
+
+    { name: 'Create Moving Info', func: createMovingInfo, params: [isTest] },
     { name: 'Moving Info Seed', func: seedMovingInfo },
 
     { name: 'Create Estimate Requests', func: createEstimateRequest },
@@ -39,10 +74,10 @@ export async function seedingMain(isTest: boolean = false) {
     { name: 'Create Estimates', func: createEstimate },
     { name: 'Estimate Seed', func: seedEstimates },
 
-    { name: 'Create Reviews', func: createReview },
+    { name: 'Create Reviews', func: createReview, params: [isTest, userData] },
     { name: 'Review Seed', func: seedReviews },
 
-    { name: 'Create Favorites', func: createFavorite },
+    { name: 'Create Favorites', func: createFavorite, params: [isTest, userData] },
     { name: 'Favorite Seed', func: seedFavorites },
 
     { name: 'Confirmation Count Set', func: setConfirmationCounts },
@@ -51,7 +86,11 @@ export async function seedingMain(isTest: boolean = false) {
   for (const { name, func, params } of seedFunctions) {
     console.log(`⚙️ 실행 중: ${name}`);
     try {
-      await func(...(params || []));
+      if (params) {
+        await func(...params);
+      } else {
+        await func();
+      }
       console.log(`✅ ${name} 완료.\n`);
     } catch (error) {
       console.error(`❌ ${name} 실행 중 오류 발생:`, error);

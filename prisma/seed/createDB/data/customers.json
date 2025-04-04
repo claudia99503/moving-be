@@ -1,0 +1,11279 @@
+[
+  {
+    "userId": 301,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 302,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 303,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 304,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 305,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 306,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 307,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 308,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 309,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 310,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 311,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 312,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 313,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 314,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 315,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 316,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 317,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 318,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 319,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 320,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 321,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 322,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 323,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 324,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 325,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 326,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 327,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 328,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 329,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 330,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 331,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 332,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 333,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 334,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 335,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 336,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 337,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 338,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 339,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 340,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 341,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 342,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 343,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 344,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 345,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 346,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 347,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 348,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 349,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 350,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 351,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 352,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 353,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 354,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 355,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 356,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 357,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 358,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 359,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 360,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 361,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 362,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 363,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 364,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 365,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 366,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 367,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 368,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 369,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 370,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 371,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 372,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 373,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 374,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 375,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 376,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 377,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 378,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 379,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 380,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 381,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 382,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 383,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 384,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 385,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 386,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 387,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 388,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 389,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 390,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 391,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 392,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 393,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 394,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 395,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 396,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 397,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 398,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 399,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 400,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 401,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 402,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 403,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 404,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 405,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 406,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 407,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 408,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 409,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 410,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 411,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 412,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 413,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 414,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 415,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 416,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 417,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 418,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 419,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 420,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 421,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 422,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 423,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 424,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 425,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 426,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 427,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 428,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 429,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 430,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 431,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 432,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 433,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 434,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 435,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 436,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 437,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 438,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 439,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 440,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 441,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 442,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 443,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 444,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 445,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 446,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 447,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 448,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 449,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 450,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 451,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 452,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 453,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 454,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 455,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 456,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 457,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 458,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 459,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 460,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 461,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 462,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 463,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 464,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 465,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 466,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 467,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 468,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 469,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 470,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 471,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 472,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 473,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 474,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 475,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 476,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 477,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 478,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 479,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 480,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 481,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 482,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 483,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 484,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 485,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 486,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 487,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 488,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 489,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 490,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 491,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 492,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 493,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 494,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 495,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 496,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 497,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 498,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 499,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 500,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 501,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 502,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 503,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 504,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 505,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 506,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 507,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 508,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 509,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 510,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 511,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 512,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 513,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 514,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 515,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 516,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 517,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 518,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 519,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 520,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 521,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 522,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 523,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 524,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 525,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 526,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 527,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 528,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 529,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 530,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 531,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 532,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 533,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 534,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 535,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 536,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 537,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 538,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 539,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 540,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 541,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 542,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 543,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 544,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 545,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 546,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 547,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 548,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 549,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 550,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 551,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 552,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 553,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 554,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 555,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 556,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 557,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 558,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 559,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 560,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 561,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 562,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 563,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 564,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 565,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 566,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 567,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 568,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 569,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 570,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 571,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 572,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 573,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 574,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 575,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 576,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 577,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 578,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 579,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 580,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 581,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 582,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 583,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 584,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 585,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 586,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 587,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 588,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 589,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 590,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 591,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 592,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 593,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 594,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 595,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 596,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 597,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 598,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 599,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 600,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 601,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 602,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 603,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 604,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 605,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 606,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 607,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 608,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 609,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 610,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 611,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 612,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 613,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 614,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 615,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 616,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 617,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 618,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 619,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 620,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 621,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 622,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 623,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 624,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 625,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 626,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 627,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 628,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 629,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 630,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 631,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 632,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 633,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 634,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 635,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 636,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 637,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 638,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 639,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 640,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 641,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 642,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 643,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 644,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 645,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 646,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 647,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 648,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 649,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 650,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 651,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 652,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 653,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 654,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 655,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 656,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 657,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 658,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 659,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 660,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 661,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 662,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 663,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 664,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 665,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 666,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 667,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 668,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 669,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 670,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 671,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 672,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 673,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 674,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 675,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 676,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 677,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 678,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 679,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 680,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 681,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 682,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 683,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 684,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 685,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 686,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 687,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 688,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 689,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 690,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 691,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 692,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 693,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 694,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 695,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 696,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 697,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 698,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 699,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 700,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 701,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 702,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 703,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 704,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 705,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 706,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 707,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 708,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 709,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 710,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 711,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 712,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 713,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 714,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 715,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 716,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 717,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 718,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 719,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 720,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 721,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 722,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 723,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 724,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 725,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 726,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 727,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 728,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 729,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 730,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 731,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 732,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 733,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 734,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 735,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 736,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 737,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 738,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 739,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 740,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 741,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 742,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 743,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 744,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 745,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 746,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 747,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 748,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 749,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 750,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 751,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 752,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 753,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 754,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 755,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 756,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 757,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 758,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 759,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 760,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 761,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 762,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 763,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 764,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 765,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 766,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 767,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 768,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 769,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 770,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 771,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 772,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 773,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 774,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 775,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 776,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 777,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 778,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 779,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 780,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 781,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 782,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 783,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 784,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 785,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 786,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 787,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 788,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 789,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 790,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 791,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 792,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 793,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 794,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 795,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 796,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 797,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 798,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 799,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 800,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 801,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 802,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 803,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 804,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 805,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 806,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 807,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 808,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 809,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 810,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 811,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 812,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 813,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 814,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 815,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 816,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 817,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 818,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 819,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 820,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 821,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 822,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 823,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 824,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 825,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 826,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 827,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 828,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 829,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 830,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 831,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 832,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 833,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 834,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 835,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 836,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 837,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 838,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 839,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 840,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 841,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 842,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 843,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 844,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 845,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 846,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 847,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 848,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 849,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 850,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 851,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 852,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 853,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 854,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 855,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 856,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 857,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 858,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 859,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 860,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 861,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 862,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 863,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 864,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 865,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 866,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 867,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 868,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 869,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 870,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 871,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 872,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 873,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 874,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 875,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 876,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 877,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 878,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 879,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 880,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 881,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 882,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 883,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 884,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 885,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 886,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 887,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 888,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 889,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 890,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 891,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 892,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 893,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 894,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 895,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 896,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 897,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 898,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 899,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 900,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 901,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 902,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 903,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 904,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 905,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 906,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 907,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 908,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 909,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 910,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 911,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 912,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 913,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 914,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 915,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 916,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 917,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 918,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 919,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 920,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 921,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 922,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 923,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 924,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 925,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 926,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 927,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 928,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 929,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 930,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 931,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 932,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 933,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 934,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 935,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 936,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 937,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 938,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 939,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 940,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 941,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 942,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 943,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 944,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 945,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 946,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 947,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 948,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 949,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 950,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 951,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 952,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 953,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 954,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 955,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 956,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 957,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 958,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 959,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 960,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 961,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 962,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 963,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 964,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 965,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 966,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 967,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 968,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 969,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 970,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 971,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 972,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 973,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 974,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 975,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 976,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 977,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 978,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 979,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 980,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 981,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 982,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 983,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 984,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 985,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 986,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 987,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 988,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 989,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 990,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 991,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 992,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 993,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 994,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 995,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 996,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 997,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 998,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 999,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1000,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1001,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1002,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1003,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1004,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1005,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1006,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1007,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1008,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1009,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1010,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1011,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1012,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1013,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1014,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1015,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1016,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1017,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1018,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1019,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1020,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1021,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1022,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1023,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1024,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1025,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1026,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1027,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1028,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1029,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1030,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1031,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1032,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1033,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1034,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1035,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1036,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1037,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1038,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1039,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1040,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1041,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1042,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1043,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1044,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1045,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1046,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1047,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1048,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1049,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1050,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1051,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1052,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1053,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1054,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1055,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1056,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1057,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1058,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1059,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1060,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1061,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1062,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1063,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1064,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1065,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1066,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1067,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1068,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1069,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1070,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1071,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1072,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1073,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1074,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1075,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1076,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1077,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1078,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1079,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1080,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1081,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1082,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1083,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1084,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1085,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1086,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1087,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1088,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1089,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1090,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1091,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1092,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1093,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1094,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1095,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1096,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1097,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1098,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1099,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1100,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1101,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1102,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1103,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1104,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1105,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1106,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1107,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1108,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1109,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1110,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1111,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1112,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1113,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1114,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1115,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1116,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1117,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1118,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1119,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1120,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1121,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1122,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1123,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1124,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1125,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1126,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1127,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1128,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1129,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1130,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1131,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1132,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1133,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1134,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1135,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1136,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1137,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1138,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1139,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1140,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1141,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1142,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1143,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1144,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1145,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1146,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1147,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1148,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1149,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1150,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1151,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1152,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1153,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1154,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1155,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1156,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1157,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1158,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1159,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1160,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1161,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1162,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1163,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1164,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1165,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1166,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1167,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1168,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1169,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1170,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1171,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1172,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1173,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1174,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1175,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1176,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1177,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1178,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1179,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1180,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1181,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1182,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1183,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1184,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1185,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1186,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1187,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1188,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1189,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1190,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1191,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1192,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1193,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1194,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1195,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1196,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1197,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1198,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1199,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1200,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1201,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1202,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1203,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1204,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1205,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1206,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1207,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1208,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1209,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1210,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1211,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1212,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1213,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1214,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1215,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1216,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1217,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1218,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1219,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1220,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1221,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1222,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1223,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1224,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1225,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1226,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1227,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1228,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1229,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1230,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1231,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1232,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1233,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1234,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1235,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1236,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1237,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1238,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1239,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1240,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1241,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1242,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1243,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1244,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1245,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1246,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1247,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1248,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1249,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1250,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1251,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1252,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1253,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1254,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1255,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1256,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1257,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1258,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1259,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1260,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1261,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1262,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1263,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1264,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1265,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1266,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1267,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1268,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1269,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1270,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1271,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1272,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1273,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1274,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1275,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1276,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1277,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1278,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1279,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1280,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1281,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1282,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1283,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1284,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1285,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1286,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1287,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1288,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1289,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1290,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1291,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1292,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1293,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1294,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1295,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1296,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1297,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1298,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1299,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1300,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1301,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1302,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1303,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1304,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1305,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1306,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1307,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1308,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1309,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1310,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1311,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1312,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1313,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1314,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1315,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1316,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1317,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1318,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1319,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1320,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1321,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1322,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1323,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1324,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1325,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1326,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1327,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1328,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1329,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1330,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1331,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1332,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1333,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1334,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1335,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1336,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1337,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1338,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1339,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1340,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1341,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1342,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1343,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1344,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1345,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1346,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1347,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1348,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1349,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1350,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1351,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1352,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1353,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1354,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1355,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1356,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1357,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1358,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1359,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1360,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1361,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1362,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1363,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1364,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1365,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1366,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1367,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1368,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1369,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1370,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1371,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1372,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1373,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1374,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1375,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1376,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1377,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1378,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1379,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1380,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1381,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1382,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1383,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1384,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1385,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1386,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1387,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1388,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1389,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1390,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1391,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1392,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1393,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1394,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1395,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1396,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1397,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1398,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1399,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1400,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1401,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1402,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1403,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1404,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1405,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1406,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1407,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1408,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1409,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1410,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1411,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1412,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1413,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1414,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1415,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1416,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1417,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1418,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1419,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1420,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1421,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1422,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1423,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1424,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1425,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1426,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1427,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1428,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1429,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1430,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1431,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1432,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1433,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1434,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1435,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1436,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1437,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1438,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1439,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1440,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1441,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1442,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1443,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1444,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1445,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1446,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1447,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1448,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1449,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1450,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1451,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1452,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1453,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1454,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1455,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1456,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1457,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1458,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1459,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1460,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1461,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1462,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1463,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1464,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1465,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1466,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1467,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1468,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1469,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1470,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1471,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1472,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1473,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1474,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1475,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1476,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1477,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1478,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1479,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1480,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1481,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1482,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1483,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1484,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1485,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1486,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1487,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1488,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1489,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1490,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1491,
+    "region": "ULSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1492,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1493,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1494,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1495,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1496,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1497,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1498,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1499,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1500,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1501,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1502,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1503,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1504,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1505,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1506,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1507,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1508,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1509,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1510,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1511,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1512,
+    "region": "SEOUL",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1513,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1514,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1515,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1516,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1517,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1518,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1519,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1520,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1521,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1522,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1523,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1524,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1525,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1526,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1527,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1528,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1529,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1530,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1531,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1532,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1533,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1534,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1535,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1536,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1537,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1538,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1539,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1540,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1541,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1542,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1543,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1544,
+    "region": "SEJONG",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1545,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1546,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1547,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1548,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1549,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1550,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1551,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1552,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1553,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1554,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1555,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1556,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1557,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1558,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1559,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1560,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1561,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1562,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1563,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1564,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1565,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1566,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1567,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1568,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1569,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1570,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1571,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1572,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1573,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1574,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1575,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1576,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1577,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1578,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1579,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1580,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1581,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1582,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1583,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1584,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1585,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1586,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1587,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1588,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1589,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1590,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1591,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1592,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1593,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1594,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1595,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1596,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1597,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1598,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1599,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1600,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1601,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1602,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1603,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1604,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1605,
+    "region": "JEJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1606,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1607,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1608,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1609,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1610,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1611,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1612,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1613,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1614,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1615,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1616,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1617,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1618,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1619,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1620,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1621,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1622,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1623,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1624,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1625,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1626,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1627,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1628,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1629,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1630,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1631,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1632,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1633,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1634,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1635,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1636,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1637,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1638,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1639,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1640,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1641,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1642,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1643,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1644,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1645,
+    "region": "DAEJEON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1646,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1647,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1648,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1649,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1650,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1651,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1652,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1653,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1654,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1655,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1656,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1657,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1658,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1659,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1660,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1661,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1662,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1663,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1664,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1665,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1666,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1667,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1668,
+    "region": "JEJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1669,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1670,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1671,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1672,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1673,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1674,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1675,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1676,
+    "region": "BUSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1677,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE",
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1678,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1679,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1680,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1681,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1682,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1683,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1684,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1685,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1686,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1687,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1688,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1689,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1690,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1691,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1692,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1693,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1694,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1695,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1696,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1697,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1698,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1699,
+    "region": "JEONBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1700,
+    "region": "DAEGU",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1701,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1702,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1703,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1704,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1705,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1706,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1707,
+    "region": "GWANGJU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1708,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1709,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1710,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1711,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1712,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1713,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1714,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1715,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1716,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1717,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1718,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1719,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1720,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1721,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1722,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1723,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1724,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1725,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1726,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1727,
+    "region": "DAEGU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1728,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1729,
+    "region": "ULSAN",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1730,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1731,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1732,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1733,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1734,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1735,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1736,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1737,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1738,
+    "region": "JEJU",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1739,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1740,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1741,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1742,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1743,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1744,
+    "region": "SEOUL",
+    "serviceType": [
+      "OFFICE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1745,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1746,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1747,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1748,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1749,
+    "region": "DAEJEON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1750,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1751,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1752,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1753,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1754,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1755,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1756,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1757,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1758,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1759,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1760,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1761,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1762,
+    "region": "INCHEON",
+    "serviceType": [
+      "SMALL",
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1763,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1764,
+    "region": "GWANGJU",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1765,
+    "region": "SEJONG",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1766,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1767,
+    "region": "JEONBUK",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1768,
+    "region": "BUSAN",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1769,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1770,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1771,
+    "region": "GANGWON",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1772,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1773,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1774,
+    "region": "JEONNAM",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1775,
+    "region": "INCHEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1776,
+    "region": "GYEONGGI",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1777,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1778,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1779,
+    "region": "JEONBUK",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1780,
+    "region": "ULSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1781,
+    "region": "GANGWON",
+    "serviceType": [
+      "HOUSE",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1782,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1783,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1784,
+    "region": "CHUNGBUK",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1785,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1786,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1787,
+    "region": "BUSAN",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1788,
+    "region": "INCHEON",
+    "serviceType": [
+      "HOUSE",
+      "SMALL",
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1789,
+    "region": "SEJONG",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1790,
+    "region": "JEONNAM",
+    "serviceType": [
+      "OFFICE",
+      "HOUSE",
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1791,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1792,
+    "region": "DAEJEON",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1793,
+    "region": "JEONNAM",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1794,
+    "region": "CHUNGNAM",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1795,
+    "region": "SEOUL",
+    "serviceType": [
+      "SMALL",
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1796,
+    "region": "GANGWON",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1797,
+    "region": "DAEGU",
+    "serviceType": [
+      "HOUSE"
+    ]
+  },
+  {
+    "userId": 1798,
+    "region": "GYEONGBUK",
+    "serviceType": [
+      "OFFICE"
+    ]
+  },
+  {
+    "userId": 1799,
+    "region": "GWANGJU",
+    "serviceType": [
+      "SMALL"
+    ]
+  },
+  {
+    "userId": 1800,
+    "region": "GYEONGNAM",
+    "serviceType": [
+      "HOUSE",
+      "SMALL"
+    ]
+  }
+]
